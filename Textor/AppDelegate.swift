@@ -7,9 +7,6 @@
 //
 
 import UIKit
-#if canImport(SimulatorStatusMagic)
-import SimulatorStatusMagic
-#endif
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
